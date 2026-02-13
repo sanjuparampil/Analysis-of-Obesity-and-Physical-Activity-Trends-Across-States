@@ -5,4 +5,13 @@ This mini project focuses on analysing obesity and physical activity trends acro
 Microsoft Excel and Power BI 
 
 # a)	Data Cleaning and Preparation (Excel & Power Query)
-i)	Imported the raw dataset into Microsoft Excel and converted it into a structured table with headers.
+## i)	Imported the raw dataset into Microsoft Excel and converted it into a structured table with headers.
+## ii)	Used Power Query Editor in Excel to:
+### •	Rename columns for better clarity (LocationDesc as State, Data_Value as Value)
+### • Set appropriate data types for numeric and text fields
+### •	Remove rows with missing or null values in the Sex and Value columns
+### •	Filter the Class to relevant indicator categories such as Obesity and Physical Activity
+### •	Filter gender values to include only Male and Female
+### •	Remove duplicate records to ensure data consistency
+### •	Finalized a clean and analysis-ready dataset for visualization.
+
