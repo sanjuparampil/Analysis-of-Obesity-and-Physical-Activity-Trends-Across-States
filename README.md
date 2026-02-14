@@ -48,4 +48,5 @@ Microsoft Excel and Power BI
    - Recent years show a noticeable rise in obesity levels, highlighting growing public health concerns.
 
 
+<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/cb870c65-b49e-4930-ae11-6c3871426cc4" />
 
